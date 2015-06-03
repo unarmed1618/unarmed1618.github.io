@@ -1,11 +1,11 @@
 # Site settings
-title: Emily Jade Darrow's Jekyll Portfolio
+title: Emily Darrow's Portfolio
 email: ejdarrow@icloud.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm putting all the coolest stuff I've ever done and links to all of my work here.
+  All the coolest stuff I've ever done.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://unarmed1618.github.io" # the base hostname & protocol for your site
-twitter_username: unarmed1618
+facebook_username: unarmed1618
 github_username:  unarmed1618
 
 # Build settings
